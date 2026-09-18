@@ -46,7 +46,7 @@ This is quite a bit smaller than the 6.61 pp naive lift. The reason is that the 
 
 Its conversion rate increases from **8.76% to 20.00%**, a **11.24 percentage-point lift**. The segment has 1,885 users and the treatment/control split is also close to 50/50, so the result is not coming from an obviously tiny or badly unbalanced group. The other segments are either almost flat, slightly negative, or have a much smaller positive lift.
 
-## Q5. Bonus: treatment vs control assignment
+## Q5. Treatment vs Control assignment
 
 | Segment | Control % | Treatment % |
 |---|---:|---:|
